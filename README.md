@@ -1,1 +1,2 @@
-# mini_project-on-stock-price-prediction
+
+stock-price-prediction
