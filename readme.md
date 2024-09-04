@@ -52,4 +52,3 @@ This project was created as part of a mini-project challenge.
 
 ---
 
-This README provides an overview of the project, its structure, usage instructions, and results. You can customize it further based on any additional details or specific instructions you have for the project.
